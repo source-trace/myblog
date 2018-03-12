@@ -1,0 +1,17 @@
+title: "Laugh"
+title_separator: "-"
+author: "Laugh"
+name: "Laugh"
+description: "总结和记录自己在学习安全上面的点点滴滴。"
+baseurl: ""
+url: "http://laughtat.me"
+google_site_verification: "A4m6b-NLyB75c_6tqPnJHt0xPMRu0eGO7lZ2CoR4ttE"
+github_username: source-trace
+theme: jekyll-theme-leap-day
+kramdown:
+   math_engine: mathjax
+   syntax_highlighter: rouge
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+permalink: /404.html
